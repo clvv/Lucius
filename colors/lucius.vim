@@ -78,7 +78,7 @@ endif
 if g:lucius_style == "dark"
 
 
-    hi Normal       guifg=#d7d7d7   guibg=#303030   ctermfg=188    ctermbg=236       gui=none      cterm=none
+    hi Normal       guifg=#d7d7d7   guibg=#1c1c1c   ctermfg=188    ctermbg=234       gui=none      cterm=none
 
     hi Comment      guifg=#808080   guibg=NONE      ctermfg=244    ctermbg=NONE      gui=none      cterm=none
 
