@@ -163,7 +163,7 @@ if g:lucius_style == "dark"
 elseif g:lucius_style == "dark_dim"
 
 
-    hi Normal       guifg=#bcbcbc   guibg=#303030   ctermfg=250    ctermbg=236       gui=none      cterm=none
+    hi Normal       guifg=#bcbcbc   guibg=#1c1c1c   ctermfg=250    ctermbg=234       gui=none      cterm=none
 
     hi Comment      guifg=#6c6c6c   guibg=NONE      ctermfg=242    ctermbg=NONE      gui=none      cterm=none
 
